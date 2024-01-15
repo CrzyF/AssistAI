@@ -2,7 +2,6 @@
 
 Meet AssistAI, your personalized virtual assistant that operates seamlessly, just like Siri, but with enhanced capabilities and a touch of personalized intelligence. Whether you're navigating your day, seeking information, or managing tasks, AssistAI is designed to make your interactions with technology effortless and intuitive.
 
-![app screenshot](https://github.com/CrzyF/ChurchConnectApp/blob/main/assets/preview.png)
 
 ## Installation
 
