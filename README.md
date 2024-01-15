@@ -6,7 +6,9 @@ Meet AssistAI, your personalized virtual assistant that operates seamlessly, jus
 ## Installation
 
 ```bash
-git clone "https://github.com/CrzyF/Virtual-Assistant.git"
+git clone "https://github.com/CrzyF/AssistAI.git"
+```
+```bash
 pip3 install -r requirements.txt
 ```
 
